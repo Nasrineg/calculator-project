@@ -10,6 +10,10 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
+# Define power
+def power (x,y):
+    return x**y
+
 # Define a function for division
 def divide(x, y):
     if y == 0:  # Check if the divisor is zero
